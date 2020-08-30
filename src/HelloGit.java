@@ -4,6 +4,11 @@ public class HelloGit {
         for(int i = 1;i <= 10; i++){
             System.out.print(i + ",");
         }
+        System.out.println("");
+        System.out.println("RepoHelloGit kan telle til 20");
+        for(int i = 11;i <= 20;i++){
+            System.out.print(i + ",");
+        }
     }
 }
 
