@@ -9,6 +9,14 @@ public class HelloGit {
         for(int i = 11;i <= 20;i++){
             System.out.print(i + ",");
         }
+
+        System.out.println("");
+        System.out.println("Git kan telle til 30");
+        for(int i = 21; i <= 30; i++){
+            System.out.print(i +" ,");
+        }
+
+
     }
 }
 
