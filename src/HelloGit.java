@@ -15,6 +15,11 @@ public class HelloGit {
         for(int i = 21; i <= 30; i++){
             System.out.print(i +" ,");
         }
+        System.out.println("");
+        System.out.println("CopyGit kan telle til 40");
+        for(int i = 31;i <= 40; i++ ){
+            System.out.print(i + ";");
+        }
 
 
     }
